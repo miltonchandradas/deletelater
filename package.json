@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Delete this later - Just to test BTP CI CD",
   "main": "index.js",
+  "engines" : { "node" : ">=0.12" },
   "scripts": {
     "start": "node index"
   },
