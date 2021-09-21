@@ -7,7 +7,7 @@ applications:
 # -----------------------------------------------------------------------------------
 # Backend Service
 # -----------------------------------------------------------------------------------
-- name: deletelater-
+- name: deletelater
   path: 
   memory: 1024M
   buildpacks: [nodejs_buildpack]
