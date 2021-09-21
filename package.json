@@ -2,10 +2,10 @@
   "name": "deletelater",
   "version": "1.0.0",
   "description": "Delete this later - Just to test BTP CI CD",
-  "main": "server.js",
+  "main": "./server.js",
   "engines" : { "node" : ">=0.12" },
   "scripts": {
-    "start": "node srv/server"
+    "start": "node ./server"
   },
   "author": "Milton Chandradas",
   "license": "ISC",
