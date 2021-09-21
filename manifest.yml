@@ -11,4 +11,4 @@ applications:
   path: 
   memory: 1024M
   buildpacks: [nodejs_buildpack]
-  command: node /home/vcap/app/server
+  command: node server
