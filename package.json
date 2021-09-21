@@ -2,9 +2,9 @@
   "name": "deletelater",
   "version": "1.0.0",
   "description": "Delete this later - Just to test BTP CI CD",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "start": "node index"
   },
   "author": "Milton Chandradas",
   "license": "ISC",

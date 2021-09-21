@@ -1,6 +1,7 @@
 general:
   buildTool: 'npm'
   inferProjectName: true
+  verbose: true
 
 steps:
   cloudFoundryDeploy:
