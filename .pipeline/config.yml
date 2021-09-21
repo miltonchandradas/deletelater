@@ -2,6 +2,7 @@ general:
   buildTool: 'npm'
   inferProjectName: true
   verbose: true
+  npmRunScripts: 'start'
 
 steps:
   cloudFoundryDeploy:
