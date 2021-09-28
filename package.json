@@ -5,7 +5,7 @@
   "main": "server.js",
   "engines" : { "node" : ">=0.12" },
   "scripts": {
-    "start": "node srv/server"
+    "start": "node server"
   },
   "author": "Milton Chandradas",
   "license": "ISC",
